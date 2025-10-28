@@ -1,8 +1,10 @@
 {
-    "owner": {
-        "username": "dandhany"
-    },
-    "records": {
-        "CNAME": "dandhany.github.io"
-    }
+  "owner": {
+    "username": "dandhany",
+    "email": "rino.ramadhani@gmail.com"
+  },
+  "records": {
+    "CNAME": "dandhany.github.io"
+  },
+  "proxied": true
 }
